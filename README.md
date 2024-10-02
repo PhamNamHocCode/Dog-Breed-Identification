@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/PhamNamHocCode/Dog-Breed-Identification">
-    <img src="images/gators.jpg" alt="Logo" width="150" height="150">
+    <img src="data/custom-test/dog-image-1.jpg" alt="Logo" width="150" height="150">
   </a>
   <h3 align="center">README</h3>
 </p>
