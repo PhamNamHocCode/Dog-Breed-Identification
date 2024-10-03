@@ -64,11 +64,12 @@ Follow the steps below to set up the project locally.
    git clone https://github.com/PhamNamHocCode/Dog-Breed-Identification.git
    ```
 3. Setup (and activate) your environment
-  Turn on GPU in VSCode:
-  - Click on Settings
-    <img src="images/setting-vscode-1.png" alt="Logo" width="350" height="200">
-  - You should turn on all of these:
-    <img src="images/setting-vscode-2.png" alt="Logo" width="350" height="200">
+  - Turn on GPU in VSCode:
+    - Click on Settings
+      <img src="images/setting-vscode-1.png" alt="Logo" width="350" height="200">
+    - You should turn on all of these:
+      <img src="images/setting-vscode-2.png" alt="Logo" width="350" height="200">
+  - Setup environment:
   ```sh
   cd Dog-Breed-Identification
   ```
@@ -101,20 +102,12 @@ Follow the steps below to set up the project locally.
 
 List of required libraries and versions:
 * TensorFlow 2.17.0
-  ```sh
-  conda install -c conda-forge tensorflow=2.17.0
-  ```
 * TensorFlow Hub 0.13.0
-  ```sh
-  conda install -c conda-forge tensorflow-hub
-  ```
 ### Alternative: Export your Environment
-
 
   ```sh
   
   ```
-
 
 
 <!-- USAGE EXAMPLES -->
@@ -122,4 +115,3 @@ List of required libraries and versions:
 
 ## Thank you
 
-<!-- If this is useful: [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/catiaspsilva) -->
