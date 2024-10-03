@@ -38,12 +38,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In this section you should describe your project, including any datasets you used and appropriate citations. You may refer to your project report or cite your paper for more detailed information.
+This project uses machine learning to identify the breed of a dog given its image.
 
-[Here goes the title with hyperlink](https://github.com/catiaspsilva/README-template)
+The data used is from Kaggle's Dog Breed Identification competition.
 
-You can include tables or images to summarize your results when and if appropriate.
+Dataset: Kaggle Dog Breed Identification
+This is a multi-class image classification problem, where the goal is to classify images into 120 different dog breeds. Multi-class classification is a powerful technique used in various real-world applications, such as Tesla's self-driving cars or Airbnb's automatic tagging systems.
 
+In this project, we'll use a pretrained model and apply transfer learning to fine-tune it for our specific problem. The process is broken down into several steps, from data preparation to model evaluation and improvement.
+
+## Built With
+[TensorFlow](https://www.tensorflow.org/)
+[TensorFlow Hub](https://www.tensorflow.org/hub)
 <!-- GETTING STARTED -->
 ## Getting Started
 
