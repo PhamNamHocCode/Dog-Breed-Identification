@@ -103,6 +103,7 @@ Follow the steps below to set up the project locally.
 List of required libraries and versions:
 * TensorFlow 2.17.0
 * TensorFlow Hub 0.13.0
+* Python 3.9.19
 ### Alternative: Export your Environment
 
   ```sh
