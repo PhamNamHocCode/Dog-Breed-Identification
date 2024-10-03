@@ -47,26 +47,24 @@ This is a multi-class image classification problem, where the goal is to classif
 
 In this project, we'll use a pretrained model and apply transfer learning to fine-tune it for our specific problem. The process is broken down into several steps, from data preparation to model evaluation and improvement.
 
-## Built With
+### Built With
 [TensorFlow](https://www.tensorflow.org/)
 [TensorFlow Hub](https://www.tensorflow.org/hub)
 <!-- GETTING STARTED -->
 ## Getting Started
 
-In this section you should provide instructions on how to use this repository to recreate your project locally.
+Follow the steps below to set up the project locally.
 
 ### Dependencies
 
-Here, list all libraries, packages and other dependencies that need to be installed to run your project. Include library versions and how they should be installed if a special requirement is needed.
-
-For example, this is how you would list them:
-* Transformers 4.8.0
+List of required libraries and versions:
+* TensorFlow 2.17.0
   ```sh
-  conda install -c conda-forge transformers
+  conda install -c conda-forge tensorflow=2.17.0
   ```
-* OpenCV 4.5.2
+* TensorFlow Hub 0.13.0
   ```sh
-  conda install -c conda-forge opencv
+  conda install -c conda-forge tensorflow-hub
   ```
 ### Alternative: Export your Environment
 
