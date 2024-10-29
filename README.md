@@ -97,7 +97,9 @@ Follow the steps below to set up the project locally.
   ```sh
   pip install scikit-learn
   ```
-
+  ```sh
+  pip install opencv-python
+   ```
 ### Dependencies
 
 List of required libraries and versions:
